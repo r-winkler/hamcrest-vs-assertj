@@ -70,5 +70,4 @@ public class MovieAssert extends AbstractAssert<MovieAssert, Movie> {
         return this;
     }
 
-
 }

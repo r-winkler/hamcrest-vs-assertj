@@ -25,7 +25,7 @@ import org.junit.Test;
  * @version $Id: $
  * @since 0.0.1, 2015
  */
-public class StringAssertionExamples {
+public class StringAssertionExample {
 
     private static final String DEV = "Developer";
 
