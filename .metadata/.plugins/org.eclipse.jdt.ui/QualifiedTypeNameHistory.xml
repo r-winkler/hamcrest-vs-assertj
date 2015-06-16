@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.hamcrest.core.IsInstanceOf"/>
-<fullyQualifiedTypeName name="org.hamcrest.core.IsNot"/>
-<fullyQualifiedTypeName name="org.junit.Test"/>
-<fullyQualifiedTypeName name="org.hamcrest.Matcher"/>
-<fullyQualifiedTypeName name="org.hamcrest.core.Is"/>
-</qualifiedTypeNameHistroy>
