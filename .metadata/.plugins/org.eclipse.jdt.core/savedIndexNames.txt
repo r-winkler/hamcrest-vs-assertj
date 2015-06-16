@@ -1,0 +1,21 @@
+INDEX VERSION 1.127+D:\devsbb\workspaces\hamcrest-vs-assertj\.metadata\.plugins\org.eclipse.jdt.core
+3977335681.index
+3399650268.index
+695309948.index
+1690678648.index
+4032972819.index
+3140731649.index
+139447051.index
+2907270191.index
+1062289818.index
+793032206.index
+2487234245.index
+1659393617.index
+1897337502.index
+1160335417.index
+1795402188.index
+2152401309.index
+4163699991.index
+1289092223.index
+1864426277.index
+625210381.index

@@ -1,0 +1,20 @@
+package hamcrest_vs_assertj;
+
+/**
+ *
+ * 
+ *
+ * @author u211732 (René Winkler)
+ * @version $Id: $ 
+ * @since 0.0.1, 2015
+ */
+public class Movie {
+    
+    private String title;
+    private String director;
+    private Date releaseDate;
+    private int runningTime;
+    private int budget;
+
+
+}

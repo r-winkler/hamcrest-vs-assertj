@@ -1,0 +1,16 @@
+/*
+ * Copyright (C) Schweizerische Bundesbahnen SBB, 2015.
+ */
+package ch.rwi.hamcrest_vs_assertj.custommatcher;
+
+/**
+ *
+ * 
+ *
+ * @author u211732 (René Winkler)
+ * @version $Id: $ 
+ * @since 0.0.1, 2015
+ */
+public class IsLongerThanTwoHours {
+
+}

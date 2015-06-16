@@ -1,0 +1,5 @@
+additional_entries=D\:\\devsbb\\jdk\\java_1.6_32_WAS_7\\lib\\tools.jar,D\:/devsbb/websphere/hotdeploy/lib/ant-contrib-1.0b3.jar,D\:/devsbb/websphere/hotdeploy/lib/maven-ant-tasks-2.1.1.jar,
+eclipse.preferences.version=1
+properties=sbb.eclipseWAS.home,sbb.eclipseWAS.maven.settings.file,
+property.sbb.eclipseWAS.home=D\:\\devsbb\\websphere\\hotdeploy
+property.sbb.eclipseWAS.maven.settings.file=D\:\\devsbb\\apps\\mvn\\apache-maven-3.0.4\\conf\\settings.xml

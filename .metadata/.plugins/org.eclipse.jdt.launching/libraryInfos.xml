@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\devsbb\jdk\jdk1.7_64" version="1.7.0_67">
+<bootpath>
+<entry path="D:\devsbb\jdk\jdk1.7_64\jre\lib\resources.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_64\jre\lib\rt.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_64\jre\lib\sunrsasign.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_64\jre\lib\jsse.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_64\jre\lib\jce.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_64\jre\lib\charsets.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_64\jre\lib\jfr.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_64\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\devsbb\jdk\jdk1.7_64\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\devsbb\jdk\jdk1.7_64\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\devsbb\jdk\java_1.7_64_WAS_8_5" version="1.7.0">
+<bootpath>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\bin\compressedrefs\jclSC170\vm.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\se-service.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\math.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\jlm.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmorb.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmorbapi.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmcfw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmpkcs.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmcertpathfw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmjgssfw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmjssefw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmsaslfw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmjcefw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmjgssprovider.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\xmldsigfw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\xml.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\charsets.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\resources.jar"/>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\rt.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\devsbb\jdk\java_1.7_64_WAS_8_5\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\devsbb\jdk\java_1.6_32_WAS_7" version="1.6.0">
+<bootpath>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\vm.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\annotation.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\beans.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\java.util.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\jndi.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\logging.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\security.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\sql.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmorb.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmorbapi.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmcfw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\rt.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\charsets.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\resources.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmpkcs.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmcertpathfw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmjgssfw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmjssefw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmsaslfw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmjcefw.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmjgssprovider.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\management-agent.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\xml.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\jlm.jar"/>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\javascript.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\devsbb\jdk\java_1.6_32_WAS_7\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\devsbb\jdk\jdk1.7_32\jre" version="1.7.0_67">
+<bootpath>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\resources.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\rt.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\sunrsasign.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\jsse.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\jce.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\charsets.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\jfr.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\devsbb\jdk\jdk1.7_32" version="1.7.0_67">
+<bootpath>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\resources.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\rt.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\sunrsasign.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\jsse.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\jce.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\charsets.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\jfr.jar"/>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\devsbb\jdk\jdk1.7_32\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

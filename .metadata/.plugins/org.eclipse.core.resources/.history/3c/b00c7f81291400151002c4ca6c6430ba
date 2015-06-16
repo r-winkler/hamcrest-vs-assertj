@@ -1,0 +1,88 @@
+package ch.rwi.hamcrest_vs_assertj;
+
+import static org.assertj.core.api.Assertions.assertThat;
+import static org.hamcrest.Matchers.containsString;
+import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.is;
+import static org.hamcrest.Matchers.isEmptyString;
+import static org.hamcrest.Matchers.not;
+import static org.hamcrest.Matchers.notNullValue;
+import static org.hamcrest.Matchers.startsWith;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertThat;
+import static org.junit.Assert.assertTrue;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.junit.Before;
+import org.junit.Test;
+
+/**
+ *
+ * 
+ *
+ * @author u211732 (René Winkler)
+ * @version $Id: $
+ * @since 0.0.1, 2015
+ */
+public class ListAssertionExample {
+
+    private List<String> animals = new ArrayList<String>();
+
+    private static final String ELEPHANT = "Elephant";
+    private static final String MONKEY = "Monkey";
+    private static final String LION = "Lion";
+    private static final String NASHORN = "Nashorn";
+    private static final String CROCODILE = "Crocodile";
+
+    @Before
+    public void setUp() {
+        animals.add(ELEPHANT);
+        animals.add(MONKEY);
+        animals.add(LION);
+        animals.add(NASHORN);
+        animals.add(CROCODILE);
+    }
+
+    @Test
+    public void testList_JUnit() {
+        assertNotNull(DEV);
+        assertFalse("".equals(DEV));
+        assertTrue(DEV.startsWith("Dev"));
+        assertTrue(DEV.contains("elo"));
+        assertEquals(1, countOccurrences(DEV, "v"));
+        assertEquals(9, DEV.length());
+    }
+
+    private int countOccurrences(String strToSearch, String sequenceToSearch) {
+        int occurences = 0;
+        for (int i = 0; i <= (strToSearch.length() - sequenceToSearch.length()); i++) {
+            if (strToSearch.substring(i, i + sequenceToSearch.length()).equals(sequenceToSearch)) {
+                occurences++;
+            }
+        }
+        return occurences;
+
+    }
+
+
+    @Test
+    public void testList_Hamcrest() {
+        assertThat(DEV, is(notNullValue()));
+        assertThat(DEV, not(isEmptyString()));
+        assertThat(DEV, startsWith("Dev"));
+        assertThat(DEV, containsString("elo"));
+        assertThat(countOccurrences(DEV, "v"), equalTo(1));
+        assertThat(DEV.length(), equalTo(9));
+    }
+
+
+    @Test
+    public void testList_WithAssertJ() {
+        assertThat(DEV).isNotNull().isNotEmpty().startsWith("Dev").contains("elo").containsOnlyOnce("v").hasSize(9);
+    }
+
+}

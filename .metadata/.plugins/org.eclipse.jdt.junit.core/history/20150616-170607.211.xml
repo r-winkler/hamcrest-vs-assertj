@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Rerun ch.rwi.hamcrest_vs_assertj.CustomMatcherExample" project="hamcrest_vs_assertj" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="ch.rwi.hamcrest_vs_assertj.CustomMatcherExample" time="0.0">
+    <testcase name="testList_WithAssertJ" classname="ch.rwi.hamcrest_vs_assertj.CustomMatcherExample" time="0.0"/>
+    <testcase name="testMovie_JUnit" classname="ch.rwi.hamcrest_vs_assertj.CustomMatcherExample" time="0.0"/>
+    <testcase name="testMovie_Hamcrest" classname="ch.rwi.hamcrest_vs_assertj.CustomMatcherExample" time="0.0"/>
+  </testsuite>
+</testrun>

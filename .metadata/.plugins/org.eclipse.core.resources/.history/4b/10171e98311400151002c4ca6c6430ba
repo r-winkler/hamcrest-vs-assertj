@@ -1,0 +1,17 @@
+package ch.rwi.hamcrest_vs_assertj.custommatcher;
+
+import hamcrest_vs_assertj.Movie;
+
+import org.assertj.core.api.AbstractAssert;
+
+/**
+ *
+ * 
+ *
+ * @author u211732 (René Winkler)
+ * @version $Id: $
+ * @since 0.0.1, 2015
+ */
+public class MovieAssert extends AbstractAssert<MovieAssert, Movie> {
+
+}
