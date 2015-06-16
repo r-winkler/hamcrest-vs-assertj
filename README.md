@@ -10,7 +10,8 @@
 ## Advantages of AssertJ
 
 - simplicity and usability
-- actively developed and community driven
+- actively developed and community driven (https://github.com/joel-costigliola/assertj-core)
+- lots of examples (https://github.com/joel-costigliola/assertj-examples/)
 - fluent api
 - high readability
 - meaningful failure messages
