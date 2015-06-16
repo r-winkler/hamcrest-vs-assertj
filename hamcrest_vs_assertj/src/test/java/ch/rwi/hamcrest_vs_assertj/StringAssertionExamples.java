@@ -61,6 +61,8 @@ public class StringAssertionExamples {
         assertThat(DEV.length(), equalTo(9));
     }
 
+    // note: expected and actual value are reversed in hamcrest
+
 
     @Test
     public void testStrings_WithAssertJ() {
